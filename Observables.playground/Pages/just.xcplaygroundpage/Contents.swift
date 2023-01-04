@@ -5,7 +5,6 @@ import RxSwift
  🐶 조금 더 섬세하게 컨트롤이 필요하다면 create를 이용해서 생성할 수 있다. (추후 설명)
  🐶 just는 간단하게 Observable을 생성하는 방식 중 하나이다.
  
- [마블]
  🧶 just는 오직 하나의 요소를 방출시키고 끝나는 ObservableType 프로토콜의 TypeMethod 이다.
  🍁 쉽게 말해, just는 말그대로 하나의 Element (요소)를 방출시키는 Observable이다.
  */

@@ -4,5 +4,6 @@
         <page name='Observable'/>
         <page name='Subscribe'/>
         <page name='just'/>
+        <page name='of'/>
     </pages>
 </playground>
