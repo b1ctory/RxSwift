@@ -80,6 +80,3 @@ observable.subscribe(onNext: { _ in
  🐯 Observable을 subscribe 할 때는 무조건 dispose(by:)를 호출해서 disposeBag에 넣어서 관리하도록 하자
  🐯 특수한 경우에는 바로 .disposeBag()을 이용해서 구독해제를 해주어도 된다.
  */
-
-
-

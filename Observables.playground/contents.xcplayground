@@ -10,5 +10,6 @@
         <page name='empty'/>
         <page name='never'/>
         <page name='disposable'/>
+        <page name='create'/>
     </pages>
 </playground>
