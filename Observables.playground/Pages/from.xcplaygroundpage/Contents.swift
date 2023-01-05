@@ -35,5 +35,5 @@ ofObservable.subscribe { element in
  🍰 출력 결과를 보면 알 수 있듯이, of는 배열 그대로를 전달한다.
  
  [결론]
- 배열의 값 하나하나를 Observable의 요소로서 방출시키고 싶다면 from을 사용하자!
+ 🐯 배열의 값 하나하나를 Observable의 요소로서 방출시키고 싶다면 from을 사용하자!
  */
