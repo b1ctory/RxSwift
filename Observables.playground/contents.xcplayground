@@ -8,5 +8,6 @@
         <page name='from'/>
         <page name='range'/>
         <page name='empty'/>
+        <page name='never'/>
     </pages>
 </playground>
