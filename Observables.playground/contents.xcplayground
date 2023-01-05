@@ -6,5 +6,7 @@
         <page name='just'/>
         <page name='of'/>
         <page name='from'/>
+        <page name='range'/>
+        <page name='empty'/>
     </pages>
 </playground>
