@@ -9,5 +9,6 @@
         <page name='range'/>
         <page name='empty'/>
         <page name='never'/>
+        <page name='disposable'/>
     </pages>
 </playground>
