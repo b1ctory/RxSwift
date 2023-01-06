@@ -4,5 +4,6 @@
         <page name='Traits'/>
         <page name='Single'/>
         <page name='Completable'/>
+        <page name='Maybe'/>
     </pages>
 </playground>
