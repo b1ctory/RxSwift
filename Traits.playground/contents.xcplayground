@@ -3,5 +3,6 @@
     <pages>
         <page name='Traits'/>
         <page name='Single'/>
+        <page name='Completable'/>
     </pages>
 </playground>
