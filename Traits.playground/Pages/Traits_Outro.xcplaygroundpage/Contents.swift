@@ -11,7 +11,7 @@ import RxSwift
 func rawObservable() -> Observable<Any> {
     return Observable.create { observable in
         observable.onNext("Raw Observable")
-        observable.onError(Error)
+//        observable.onError(Error)
         observable.onCompleted()
         
         return Disposables.create()
@@ -22,7 +22,7 @@ func rawObservable() -> Observable<Any> {
 func singleObservable() -> Single<Any> {
     return Single.create { single in
         single(.success("Single Observable"))
-        single(.failure(Error.Type))
+//        single(.failure(Error.Type))
         
         return Disposables.create()
     }
@@ -32,7 +32,7 @@ func singleObservable() -> Single<Any> {
 func completableObservable() -> Completable {
     return Completable.create { completable in
         completable(.completed)
-        completable(.error(Error.Type))
+//        completable(.error(Error.Type))
         
         return Disposables.create()
     }
@@ -41,11 +41,11 @@ func completableObservable() -> Completable {
 // Maybe
 func maybeObservable() -> Maybe<Any> {
     return Maybe.create { maybe in
-        maybe(.success("Maybe Observable"))
-        maybe(.error(Error))
-        maybe(.completed)
+//        maybe(.success("Maybe Observable"))
+//        maybe(.error(Error))
+//        maybe(.completed)
         
-        return Dispodables.create()
+        return Disposables.create()
     }
 }
 
