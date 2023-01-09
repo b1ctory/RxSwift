@@ -7,5 +7,6 @@
         <page name='filter'/>
         <page name='skip'/>
         <page name='skipWhile'/>
+        <page name='skipUntil'/>
     </pages>
 </playground>
