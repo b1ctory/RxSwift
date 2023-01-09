@@ -6,5 +6,6 @@
         <page name='elementAt'/>
         <page name='filter'/>
         <page name='skip'/>
+        <page name='skipWhile'/>
     </pages>
 </playground>
