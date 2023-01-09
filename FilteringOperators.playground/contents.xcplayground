@@ -3,5 +3,6 @@
     <pages>
         <page name='FilteringOperator'/>
         <page name='ignoringElements'/>
+        <page name='elementAt'/>
     </pages>
 </playground>
