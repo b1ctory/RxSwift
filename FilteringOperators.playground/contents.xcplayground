@@ -4,5 +4,6 @@
         <page name='FilteringOperator'/>
         <page name='ignoringElements'/>
         <page name='elementAt'/>
+        <page name='filter'/>
     </pages>
 </playground>
