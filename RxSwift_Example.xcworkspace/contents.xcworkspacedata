@@ -2,10 +2,13 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/exception/Desktop/dev/RxSwift_Example/Observables.playground">
+   </FileRef>
+   <FileRef
       location = "group:Traits.playground">
    </FileRef>
    <FileRef
-      location = "group:/Users/exception/Desktop/dev/RxSwift_Example/Observables.playground">
+      location = "group:FilteringOperators.playground">
    </FileRef>
    <FileRef
       location = "group:RxSwift_Example.xcodeproj">
