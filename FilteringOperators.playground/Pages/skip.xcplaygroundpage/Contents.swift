@@ -34,7 +34,7 @@ observable().skip(2)
         print("skip과 filter을 거친 \(element) 방출!")
     }, onCompleted: {
         print("Completed !")
-    })
+    }).disposed(by: disposeBag)
 
 /*
  [결론]
