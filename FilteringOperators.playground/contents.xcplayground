@@ -12,5 +12,6 @@
         <page name='takeWhile'/>
         <page name='takeUntil'/>
         <page name='takeLast'/>
+        <page name='distinctUntilChanged'/>
     </pages>
 </playground>
