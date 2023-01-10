@@ -10,5 +10,6 @@
         <page name='skipUntil'/>
         <page name='take'/>
         <page name='takeWhile'/>
+        <page name='takeUntil'/>
     </pages>
 </playground>
