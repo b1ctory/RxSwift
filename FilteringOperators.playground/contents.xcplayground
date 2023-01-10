@@ -8,5 +8,6 @@
         <page name='skip'/>
         <page name='skipWhile'/>
         <page name='skipUntil'/>
+        <page name='take'/>
     </pages>
 </playground>
