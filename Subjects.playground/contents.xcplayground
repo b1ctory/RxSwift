@@ -3,5 +3,6 @@
     <pages>
         <page name='HotAndColdObservable'/>
         <page name='PublishSubject'/>
+        <page name='BehaviorSubject'/>
     </pages>
 </playground>
