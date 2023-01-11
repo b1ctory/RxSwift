@@ -4,5 +4,6 @@
         <page name='HotAndColdObservable'/>
         <page name='PublishSubject'/>
         <page name='BehaviorSubject'/>
+        <page name='ReplaySubject'/>
     </pages>
 </playground>
