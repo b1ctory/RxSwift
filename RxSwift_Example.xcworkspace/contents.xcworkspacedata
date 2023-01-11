@@ -11,6 +11,9 @@
       location = "group:FilteringOperators.playground">
    </FileRef>
    <FileRef
+      location = "group:Subjects.playground">
+   </FileRef>
+   <FileRef
       location = "group:RxSwift_Example.xcodeproj">
    </FileRef>
    <FileRef
