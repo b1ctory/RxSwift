@@ -7,5 +7,6 @@
         <page name='ReplaySubject'/>
         <page name='Relay'/>
         <page name='PublishRelay'/>
+        <page name='BehaviorRelay'/>
     </pages>
 </playground>
