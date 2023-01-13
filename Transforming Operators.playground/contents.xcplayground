@@ -3,5 +3,6 @@
     <pages>
         <page name='toArray'/>
         <page name='enumerated'/>
+        <page name='map'/>
     </pages>
 </playground>
