@@ -4,5 +4,6 @@
         <page name='toArray'/>
         <page name='enumerated'/>
         <page name='map'/>
+        <page name='flatMap'/>
     </pages>
 </playground>
