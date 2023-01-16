@@ -6,5 +6,6 @@
         <page name='map'/>
         <page name='flatMap'/>
         <page name='flatMapLatest'/>
+        <page name='materialize_dematerialize'/>
     </pages>
 </playground>
