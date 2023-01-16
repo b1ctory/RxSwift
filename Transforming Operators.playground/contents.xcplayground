@@ -5,5 +5,6 @@
         <page name='enumerated'/>
         <page name='map'/>
         <page name='flatMap'/>
+        <page name='flatMapLatest'/>
     </pages>
 </playground>
