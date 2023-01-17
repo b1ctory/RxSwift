@@ -4,5 +4,6 @@
         <page name='startWith'/>
         <page name='concat'/>
         <page name='concatMap'/>
+        <page name='merge'/>
     </pages>
 </playground>
