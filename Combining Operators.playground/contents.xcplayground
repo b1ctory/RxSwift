@@ -3,5 +3,6 @@
     <pages>
         <page name='startWith'/>
         <page name='concat'/>
+        <page name='concatMap'/>
     </pages>
 </playground>
