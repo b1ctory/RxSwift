@@ -17,6 +17,9 @@
       location = "group:Transforming Operators.playground">
    </FileRef>
    <FileRef
+      location = "group:Combining Operators.playground">
+   </FileRef>
+   <FileRef
       location = "group:RxSwift_Example.xcodeproj">
    </FileRef>
    <FileRef
