@@ -6,5 +6,6 @@
         <page name='concatMap'/>
         <page name='merge'/>
         <page name='combineLatest'/>
+        <page name='zip'/>
     </pages>
 </playground>
