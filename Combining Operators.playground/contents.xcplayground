@@ -12,5 +12,6 @@
         <page name='amb'/>
         <page name='switchLatest'/>
         <page name='reduce'/>
+        <page name='scan'/>
     </pages>
 </playground>
