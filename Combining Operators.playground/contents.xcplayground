@@ -9,5 +9,6 @@
         <page name='zip'/>
         <page name='withLatestFrom'/>
         <page name='sample'/>
+        <page name='amb'/>
     </pages>
 </playground>
