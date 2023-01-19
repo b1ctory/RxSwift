@@ -11,5 +11,6 @@
         <page name='sample'/>
         <page name='amb'/>
         <page name='switchLatest'/>
+        <page name='reduce'/>
     </pages>
 </playground>
