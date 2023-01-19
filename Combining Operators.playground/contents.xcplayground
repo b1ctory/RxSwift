@@ -8,5 +8,6 @@
         <page name='combineLatest'/>
         <page name='zip'/>
         <page name='withLatestFrom'/>
+        <page name='sample'/>
     </pages>
 </playground>
