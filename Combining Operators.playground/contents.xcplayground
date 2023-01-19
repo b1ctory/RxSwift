@@ -7,5 +7,6 @@
         <page name='merge'/>
         <page name='combineLatest'/>
         <page name='zip'/>
+        <page name='withLatestFrom'/>
     </pages>
 </playground>
