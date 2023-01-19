@@ -10,5 +10,6 @@
         <page name='withLatestFrom'/>
         <page name='sample'/>
         <page name='amb'/>
+        <page name='switchLatest'/>
     </pages>
 </playground>
