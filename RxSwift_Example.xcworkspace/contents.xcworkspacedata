@@ -20,6 +20,9 @@
       location = "group:Combining Operators.playground">
    </FileRef>
    <FileRef
+      location = "group:TimeBasedOperators.playground">
+   </FileRef>
+   <FileRef
       location = "group:RxSwift_Example.xcodeproj">
    </FileRef>
    <FileRef
