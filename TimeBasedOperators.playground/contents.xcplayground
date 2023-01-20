@@ -7,5 +7,6 @@
         <page name='window'/>
         <page name='delay'/>
         <page name='delaySubscription'/>
+        <page name='timeout'/>
     </pages>
 </playground>
