@@ -6,5 +6,6 @@
         <page name='buffer'/>
         <page name='window'/>
         <page name='delay'/>
+        <page name='delaySubscription'/>
     </pages>
 </playground>
