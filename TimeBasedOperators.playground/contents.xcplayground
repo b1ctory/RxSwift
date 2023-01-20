@@ -3,5 +3,6 @@
     <pages>
         <page name='interval'/>
         <page name='timer'/>
+        <page name='buffer'/>
     </pages>
 </playground>
