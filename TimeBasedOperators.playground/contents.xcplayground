@@ -10,5 +10,6 @@
         <page name='timeout'/>
         <page name='debounce'/>
         <page name='throttle'/>
+        <page name='connectable obervable'/>
     </pages>
 </playground>
