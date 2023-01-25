@@ -8,5 +8,6 @@
         <page name='delay'/>
         <page name='delaySubscription'/>
         <page name='timeout'/>
+        <page name='debounce'/>
     </pages>
 </playground>
