@@ -9,5 +9,6 @@
         <page name='delaySubscription'/>
         <page name='timeout'/>
         <page name='debounce'/>
+        <page name='throttle'/>
     </pages>
 </playground>
